@@ -1,0 +1,4 @@
+theme = Monokai Remastered
+split-divider-color = #333333
+window-save-state = always
+fullscreen = non-native
